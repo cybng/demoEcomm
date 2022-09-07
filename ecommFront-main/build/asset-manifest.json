@@ -1,0 +1,11 @@
+{
+  "files": {
+    "main.js": "/static/js/main.2d22bd4d.js",
+    "index.html": "/index.html",
+    "static/media/formatCsv.csv": "/static/media/formatCsv.329b5243917531358cbd.csv",
+    "main.2d22bd4d.js.map": "/static/js/main.2d22bd4d.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.2d22bd4d.js"
+  ]
+}
